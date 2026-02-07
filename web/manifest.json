@@ -1,0 +1,11 @@
+{
+    "name": "master_list",
+    "short_name": "Master List",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A Flutter application for managing your master list.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
